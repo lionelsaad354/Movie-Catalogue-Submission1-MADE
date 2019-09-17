@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin_horizontal">16dp</dimen>
+    <dimen name="activity_margin_vertical">16dp</dimen>
+    <dimen name="textview_margin_bottom">7dp</dimen>
+    <dimen name="height_poster_home">170dp</dimen>
+    <dimen name="margin_left_item">10dp</dimen>
+    <dimen name="margin_bottom_genre">3dp</dimen>
+    <dimen name="card_corner_radius">13dp</dimen>
+</resources>
